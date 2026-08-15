@@ -1,105 +1,123 @@
+<h1 align="center">Hi 👋, I'm Mateus Augusto Tozin Ferreira</h1>
+<h3 align="center">IT Support Analyst | Software Engineering Student | Passionate about Technology, Data and Development</h3>
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=IT+Support+Analyst;Software+Engineering+Student;Passionate+about+Technology%2C+Data+and+Development;Always+learning+and+building+new+solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=IT+Support+Analyst;Software+Engineering+Student;Passionate+about+Technology%2C+Data+and+Development;Always+learning+and+building+new+solutions" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
 
-# 👋 Olá, eu sou o Mateus Tozin
+  <a href="https://www.linkedin.com/in/mateus-augusto-tozin-ferreira-24045b235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mateustozin15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-### Analista de Suporte de TI | Estudante de Engenharia de Software | Curitiba, PR 🇧🇷
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusaugustotozin)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateustozin15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateustozin)
+## 🚀 About Me
+
+- 💼 Currently working as **IT Support Analyst** at **VendPago**
+- 🎓 Studying **Software Engineering** at **PUCPR**
+- 📊 Interested in **Software Development, Data Analysis, IT Support and Process Automation**
+- 🧠 Experience with **technical support, ERP, payment systems, BI dashboards, SQL and troubleshooting**
+- 🚀 Always looking to improve my skills and build efficient solutions
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Technologies
+<img src="https://skillicons.dev/icons?i=python,cs,java,javascript,typescript,php,html,css" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="48" alt="Excel"/>
 
 </div>
 
 ---
 
-## 🎯 Sobre mim
+## 📈 GitHub Stats
 
-Estudante de **Engenharia de Software** na **PUCPR** (previsão de conclusão: 2026), com experiência sólida em suporte técnico N1/N2 e background militar no **Exército Brasileiro**. Perfil orientado a resultados, com forte capacidade de adaptação, disciplina e resolução de problemas sob pressão.
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mateustozin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateustozin&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-Atuo hoje em ambiente **hospitalar (HIS)**, com foco em suporte a sistemas críticos, dados e infraestrutura — buscando expandir minha atuação para desenvolvimento de software e análise de dados.
+<br>
 
-```js
-const mateus = {
-  cargo: "Analista de Suporte de TI",
-  local: "Curitiba, PR - Brasil",
-  formacao: "Engenharia de Software (PUCPR) — previsão 2026",
-  foco: ["Suporte de TI", "Dados & BI", "Desenvolvimento de Software"],
-  disponivel: true,
-};
-```
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mateustozin&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 💼 Onde estou hoje
+## 💼 Professional Experience
 
-**Analista de Suporte Técnico** — [HNSG · Hospital Nossa Senhora das Graças](#) *(jul. 2026 — presente)*
+### **VendPago — IT Support Analyst**
+- Technical and operational support for financial management systems
+- Incident analysis, troubleshooting and log validation
+- ERP support, inventory routines and operational processes
+- Support for payment systems and POS terminals
+- Dashboard and report analysis to support business decisions
+- Remote support with **AnyDesk**
+- Documentation and continuous process improvement
 
-Suporte a sistemas críticos em ambiente hospitalar, com foco em disponibilidade, integridade de dados e continuidade operacional.
-
-✓ **Suporte de Sistemas** — Troubleshooting de aplicações, sistemas operacionais Windows/Linux e ambientes corporativos
-✓ **SQL & Data Analytics** — Queries avançadas, otimização de performance, criação de relatórios e dashboards BI
-✓ **Tasy (ERP Healthcare)** — Administração, troubleshooting, configuração de usuários e suporte especializado em HIS
-✓ **Active Directory & Autenticação** — Gestão de usuários, permissões e políticas de acesso
-✓ **Monitoramento & Alertas** — Acompanhamento de sistema, logs, performance monitoring e escalação de incidentes
-✓ **Backup & Recuperação** — Planos de continuidade, restore de dados e disaster recovery
-✓ **Documentação Técnica** — Criação e manutenção de base de conhecimento, procedimentos e manuais
-✓ **Suporte de Rede** — Conectividade, switches e infraestrutura de rede (suporte complementar)
-
----
-
-## 🧰 Stack técnica
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Dados & BI**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Infraestrutura & Suporte**
-
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### **Brazilian Army — Soldier**
+- Team leadership in high-pressure environments
+- Logistics and operational resource management
+- Communication infrastructure and radio-telephony technical support
 
 ---
 
-## 🧭 Trajetória
+## 🎓 Education
 
-| Período | Cargo | Empresa |
-|---|---|---|
-| jul. 2026 — presente | Analista de Suporte Técnico | HNSG — Hospital Nossa Senhora das Graças |
-| mar. 2025 — jul. 2026 | Analista de Suporte de TI | VENDPAGO Soluções de Pagamento |
-| mar. 2025 — mai. 2025 | Suporte Técnico N1 | VENDPAGO Soluções de Pagamento |
-| jan. 2023 — mar. 2024 | Soldado (Suporte de TI) | Exército Brasileiro |
-
-**Formação:** Bacharelado em Engenharia de Software — Pontifícia Universidade Católica do Paraná (PUCPR), 2022–2026
-
-> 📄 Portfólio completo, com timeline detalhada de experiência e skills: **[ver portfólio →](#)**
+**Bachelor’s Degree in Software Engineering**  
+**Pontifícia Universidade Católica do Paraná (PUCPR)**  
+📅 2022 - 2026
 
 ---
 
-## 🎯 Buscando oportunidades em
+## 🌎 Languages
 
-`Suporte de TI` · `Análise de Dados` · `Desenvolvimento de Software` · `Administração de Sistemas` · `SQL/BI`
+- Portuguese — Native  
+- English — Intermediate  
+- Spanish — Intermediate  
+
+---
+
+## 🎯 Interests
+
+- Software Development  
+- IT Support / Service Desk  
+- Data Analysis & BI  
+- Databases  
+- Process Automation  
+- ERP and Payment Systems  
+
+---
+
+## 🏆 Achievement
+
+🥇 **1st Place — Popular Vote** at the Software Engineering Project Competition (PUCPR)
 
 ---
 
 <div align="center">
-
-📫 **Vamos conversar?** [mateustozin15@gmail.com](mailto:mateustozin15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateusaugustotozin) · [GitHub](https://github.com/Mateustozin)
-
+  <img src="https://komarev.com/ghpvc/?username=Mateustozin&label=Profile%20views&color=6A5ACD&style=flat" alt="Mateustozin" />
 </div>
+ 
